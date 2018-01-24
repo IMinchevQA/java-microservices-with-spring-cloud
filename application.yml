@@ -18,13 +18,3 @@ spring:
 management:
   security:
     enabled: false
-          
-          
-#server.port=8888
-#spring.profiles.active=native
-#spring.cloud.config.server.native.searchLocations=classpath:/,classpath:/station1,classpath:/station2
-#management.security.enabled=false
-#security.basic.enabled=true
-#security.user.name=user
-#security.user.password=pass
-#spring.cloud.config.server.encrypt.enabled=false
