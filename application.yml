@@ -12,7 +12,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/rseroter/pluralsight-spring-cloudconfig-wa-tolls
+          uri: https://github.com/IMinchevQA/java-microservices-with-spring-cloud
           search-paths:
             - 'station*'   
 management:
